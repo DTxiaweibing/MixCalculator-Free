@@ -1,12 +1,12 @@
 {
-  "latest_version": "1.0.0",
-  "version_code": 100,
-  "package_name": "com.kaoshi.tikuguanli",
-  "download_url": "https://github.com/您的用户名/MixCalculator-Free/releases/download/v1.0.0/app-release.apk",
-  "apk_md5": "替换为实际MD5值",
-  "apk_sha256": "替换为实际SHA256值",
-  "apk_size": 0,
+  "latest_version": "1.0.9",
+  "version_code": 9,
+  "package_name": "com.example.feedcalculator",
+  "download_url": "https://github.com/DTxiaweibing/MixCalculator-Free/releases/download/%E5%85%BB%E8%99%BE%E6%8B%8C%E6%96%99%E8%AE%A1%E7%AE%97%E5%99%A8/1.09.apk",
+  "apk_md5": "02b5909d5397ff800c4d45781a355af5",
+  "apk_sha256": "d1aa9b63e3dc5dd296ab6641f3252f71a9260de1156e03ae6cfcd3cbde8a4a49,
+  "apk_size": 2988654,
   "release_notes": "首次发布",
   "force_update": false,
-  "release_date": "2024-01-01"
+  "release_date": "202-01-17"
 }
