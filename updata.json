@@ -7,6 +7,6 @@
   "apk_sha256": "55d30c0eb24274a1eab8b88e02b9bedd6f00d884e01f56e25f8c49f37f0522da",
   "apk_size": 2988654,
   "release_notes": "首次发布",
-  "force_update": false,
+  "force_update": "false",
   "release_date": "2026-01-17"
 }
